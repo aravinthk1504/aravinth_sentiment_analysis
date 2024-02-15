@@ -2,7 +2,7 @@
 Task
 Data: kaggle datasets download -d snap/amazon-fine-food-reviews
 Problem : Text Clasification Model for Sentiment analysis 
-Use sklear,LogisticRegression,L-BFGS (Limited-memory Broyden-Fletcher-Goldfarb-Shanno),TfidfVectorizer to conduct Text Clasification MOdel For Sentimental Analysis
+Use sklear,LogisticRegression,L-BFGS (Limited-memory Broyden-Fletcher-Goldfarb-Shanno),TfidfVectorizer to conduct Text Clasification Model For Sentimental Analysis
 
 Evaluation Metrics: Use appropriate metrics beyond MSE and R-squared, such as:
 
